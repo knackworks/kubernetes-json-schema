@@ -17,6 +17,8 @@ declare -a arr=(
 # (or when we need to rebuild all definitions)
 declare -a arr2=(
     # master
+    # v1.22.x
+    v1.22.0
     # v1.21.x
     v1.21.4
     # v1.20.x
